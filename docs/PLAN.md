@@ -20,7 +20,7 @@
 - Items 8-9 unless items 1-7 are done and evidenced
 
 ## Known constraint
-The machine is small (2 vCPU, 2.9 GB free RAM while CVAT runs), so the
+The machine is small (2 vCPU, about 2.9 GB free RAM while CVAT runs), so the
 imported dataset is a subset of COCO val2017. The exact count is in OBJECTIVES.md.
 
 ## Changes to plan
